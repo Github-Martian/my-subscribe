@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Private VLESS Sub</title>
+  <entry>
+    <title>My-CF-Private</title>
+    <content type="text">
+vless://25e1d0a0-29f1-4883-a2cb-773f566acad4@my-worker.mrtantfh9394.workers.dev:443?encryption=none&security=tls&type=ws&path=/ws&sni=my-worker.mrtantfh9394.workers.dev#My-CF-Node
+    </content>
+  </entry>
+</feed>
